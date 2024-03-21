@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E49292"
-    android:backgroundTint="#E4C8C8"
+    android:background="#F3EFEF"
+    android:backgroundTint="#F6F6F6"
     tools:context=".MainActivity">
 
     <ImageView
@@ -32,7 +32,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.666"
-        app:rippleColor="#FAF8F8" />
+        app:rippleColor="#0C0C0C" />
 
     <Button
         android:id="@+id/btnlista"
